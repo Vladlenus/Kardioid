@@ -1,0 +1,30 @@
+
+body{
+    position: relative;
+    margin-left: 18%;
+    
+}
+.inputs{
+	
+ }
+#c1{
+    width: 400px;
+    height: 200px;
+    border: 3px;
+    background-color: rgb(149, 119, 119);  
+}
+#c2{
+    width: 400px;
+    height: 200px;
+    border: 3px;
+    background-color: rgb(168, 75, 75);  
+    display: none;
+}
+svg{
+    background-color: rgb(72, 13, 68);
+}
+line{
+    
+    stroke-width: 0.08%;
+    stroke: aqua;
+}
